@@ -1,1 +1,1 @@
-# NetflixApp-and-FormValidatingApp
+# MiniNetflixApp-and-FormValidatingApp
